@@ -17,4 +17,4 @@ Using **R, geospatial data processing, and degree-3 polynomial regression**, we 
 
 **Technologies:** R, Google Maps Geocoding API, USPS ZIP Code Data, Statistical Regression, Data Visualization.
 <img width="625" height="833" alt="Screenshot 2026-10-19 at 10 02 27 PM" src="https://github.com/user-attachments/assets/a445605d-f403-4ad3-a4fc-ea7ace43873f" />
-<img width="525" height="530" alt="Screenshot 2026-10-19 at 10 02 39 PM" src="https://github.com/user-attachments/assets/4d57964f-8c0b-421e-87fb-34d1b6724caf" />
+<img width="550" height="600" alt="Screenshot 2026-10-19 at 10 02 39 PM" src="https://github.com/user-attachments/assets/4d57964f-8c0b-421e-87fb-34d1b6724caf" />
