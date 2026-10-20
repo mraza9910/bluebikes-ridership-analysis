@@ -16,3 +16,8 @@ Using **R, geospatial data processing, and degree-3 polynomial regression**, we 
 - Geographic differences in trip duration highlighted opportunities for improved bike availability, station placement, and fleet rebalancing.
 
 **Technologies:** R, Google Maps Geocoding API, USPS ZIP Code Data, Statistical Regression, Data Visualization.
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/0208e435-8699-4892-bbfd-a674cee285f3" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/185e87be-b163-4557-b431-cb00f9b5301a" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/f8a27a93-bdd0-4f26-8155-cca7d2b159e7" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/4be5dc8f-1abe-4fd9-90e5-85b643981459" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/79e4bc73-3e90-4c07-bcdc-0bfc0f687269" />
