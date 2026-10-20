@@ -13,7 +13,7 @@ Using **R, geospatial data processing, and degree-3 polynomial regression**, we 
 ### Key Findings
 - Casual Customers consistently took longer trips than Subscribers, suggesting distinct leisure and commuting patterns.
 - Trip duration exhibited nonlinear relationships with time of day, particularly among casual riders.
-- Geographic differences in trip duration highlighted opportunities for improved bike availability, station placement, and fleet rebalancing.
+- Geographic differences in trip duration highlighted opportunities for improved bike availability, station placement, and fleet rebalancing, especially in Boston, MA and Cambridge, MA.
 
 **Technologies:** R, Google Maps Geocoding API, USPS ZIP Code Data, Statistical Regression, Data Visualization.
 <img width="625" height="833" alt="Screenshot 2026-10-19 at 10 02 27 PM" src="https://github.com/user-attachments/assets/a445605d-f403-4ad3-a4fc-ea7ace43873f" />
